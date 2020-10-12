@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--<item-->
+    <!--android:id="@+id/homer"-->
+    <!--android:icon="@drawable/homeey"-->
+    <!--android:title="HOME"-->
+    <!--android:textStyle="bold"-->
+    <!--/>-->
+
+    <item
+        android:id="@+id/chomp"
+        android:icon="@drawable/cmpp"
+        android:title="play"
+        android:textStyle="bold"
+
+        />
+
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/about"
+        android:title="ABOUT"
+        android:textStyle="bold"
+
+        />
+    <item
+        android:id="@+id/download"
+        android:icon="@drawable/download"
+        android:title="SETTING/down"
+        />
+
+
+
+
+
+</menu>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/homes"
+            android:icon="@drawable/homeey"
+            android:title="HOME" />
+
+
+        <item
+            android:id="@+id/about"
+            android:icon="@drawable/about"
+            android:title="ABOUT" />
+    </group>
+
+
+    <item android:title="CONTACTS">
+        <menu>
+            <item
+                android:id="@+id/sir"
+                android:icon="@drawable/sirs"
+                android:title="CONTACT SIR" />
+            <item
+                android:id="@+id/cr"
+                android:icon="@drawable/crs"
+                android:title="CONTACT CRS" />
+        </menu>
+    </item>
+
+    <item android:title="SETTINGS">
+        <menu>
+            <item
+                android:id="@+id/setting"
+                android:icon="@drawable/setting"
+                android:title="SETTING" />
+        </menu>
+
+    </item>
+
+</menu>

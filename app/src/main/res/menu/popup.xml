@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/search_item"
+        android:icon="@drawable/rep"
+        android:title="BREAK"
+        app:showAsAction="collapseActionView" />
+    <item android:id="@+id/upload_item"
+        android:title="FIX DAY"
+        android:icon="@drawable/rep"
+        />
+    <item android:id="@+id/copy_item"
+        android:title="DIARY" />
+
+    <item
+        android:id="@+id/find"
+        android:title="SEARCH" />
+    <item
+        android:id="@+id/classAdd"
+        android:title="Add class" />
+    <item
+        android:id="@+id/series"
+        android:title="SERIES" >
+        <menu >
+            <item
+                android:id="@+id/one9"
+                android:title="19" >
+                <menu>
+                    <item
+                        android:id="@+id/seca19"
+                        android:title="seca" />
+                    <item
+                        android:id="@+id/secb19"
+                        android:title="secb" />
+                    <item
+                        android:id="@+id/secc19"
+                        android:title="secc" />
+                </menu>
+            </item>
+            <item
+                android:id="@+id/one8"
+                android:title="18" >
+                <menu
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+                    <item android:title="seca" />
+                    <item android:title="secb" />
+                    <item android:title="secc" />
+                </menu>
+            </item>
+            <item
+                android:id="@+id/one7"
+                android:title="17" >
+                <menu
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+                    <item android:title="seca" />
+                    <item android:title="secb" />
+                    <item android:title="secc" />
+                </menu>
+            </item>
+            <item
+
+                android:id="@+id/one6"
+                android:title="16" >
+                <menu
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+                    <item android:title="seca" />
+                    <item android:title="secb" />
+                    <item android:title="secc" />
+                </menu>
+            </item>
+            <item
+                android:id="@+id/one5"
+                android:title="15" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "387732221720",
+    "firebase_url": "https://studenthelp-a65d2.firebaseio.com",
+    "project_id": "studenthelp-a65d2",
+    "storage_bucket": "studenthelp-a65d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387732221720:android:f93bd523843c7877ccf86d",
+        "android_client_info": {
+          "package_name": "com.example.studenthelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387732221720-8a9mea97u9sbov6cg8vjuctlqeeube0q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.studenthelp",
+            "certificate_hash": "b1ab55c30921ec7169fa4c82d0a370de7c671fa5"
+          }
+        },
+        {
+          "client_id": "387732221720-b4vl9fov8jcvkpc6r19aarffisv4900u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtFXci1aWnvDxicJJE6kwtuAd-mYWMg0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387732221720-b4vl9fov8jcvkpc6r19aarffisv4900u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
